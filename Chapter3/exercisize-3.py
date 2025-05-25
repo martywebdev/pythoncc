@@ -18,7 +18,7 @@ guests.append('midge')
 
 print(f'{popped.title()} can\'t make it to dinner so I\'ll invite {guests[-1].title()} instead')
 
-print(f'My current guests are {', '.join([guest.title() for guest in guests])}')
+print(f'My current guests are {", ".join([guest.title() for guest in guests])}')
 
 invitation(guests)
 
