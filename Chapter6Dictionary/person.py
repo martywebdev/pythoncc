@@ -43,3 +43,6 @@ for item in sorted(portfolio_architecture.values()):
 
 for item in set(portfolio_architecture.keys()):
     print(item)
+
+
+print(portfolio_architecture.items())

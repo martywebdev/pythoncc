@@ -18,3 +18,6 @@ fruits = ['watermelon', 'strawberry', 'pineapple']
 
 if 'watermelon' in fruits:
     print('its there haha')
+
+
+print('yes' if 'strawberry' in fruits else 'no')
