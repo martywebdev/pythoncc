@@ -21,3 +21,7 @@ from user import User
 
 user_1 = User("Martin", "Pirrip", "martinpirrip@gmail.com", "manila")
 user_1.describe_user()
+
+resto = Restaurant("Pizza Palace", "Pizza")
+resto.set_number_served(100)
+resto.increment_number_served(50)
