@@ -1,0 +1,6 @@
+In Python you can use dynamic typing, so variables can change types.
+In Python you can use list comprehensions for concise data processing.
+In Python you can define functions with optional and default parameters.
+In Python you can work with various data structures like lists, dictionaries, sets, and tuples.
+In Python you can use modules and packages to organize and reuse code.
+In Python you can handle exceptions using try/except blocks.
